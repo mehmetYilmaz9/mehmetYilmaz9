@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Yilmaz Mehmet</h1>
+<h1 align="left">Hi 👋, I'm Mehmet Yilmaz</h1>
 <h3 align="left">A Full-Stack developer JS from Paris, France.</h3>
 
 <p align="center"> 
