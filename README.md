@@ -82,6 +82,8 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=elyasmehmet&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <h3 align="left">GitHub Stats : </h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetyilmaz9&show_icons=true&locale=en&layout=compact" alt="mehmetyilmaz9" /></p>
