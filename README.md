@@ -73,9 +73,6 @@
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=elyasmehmet&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <h3 align="left">GitHub Stats : </h3>
