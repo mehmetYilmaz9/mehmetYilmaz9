@@ -15,13 +15,10 @@
 
 </p>
 
-- 🛠   I’m currently working on improving my Front-End skills with the 100 DailyUI Challenge #dailyui
-- 📚   I’m currently learning Blockchain technologies
 - 🥷   Learning Solidity with Udemy, Youtube and CryptoZombies => DApps is Future
 - 👨‍💻   All of my projects are available at [http://mehmetyourdev.tech/](http://mehmetyourdev.tech/)
 - 📫   How to reach me **https://linktr.ee/mehmetdev**
 - ⚡   Fun fact : Cobra Kai Never Dies
-
 <br />
 
 <h3 align="left">Languages and Tools :</h3>
