@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mehmet Yilmaz</h1>
-<h3 align="left">React/Redux/Apollo - Solidity Developer</h3>
+<h3 align="left">React/Redux/Next - Solidity Developer</h3>
 
 <p align="center"> 
  
