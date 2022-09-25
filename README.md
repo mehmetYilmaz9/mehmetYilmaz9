@@ -16,7 +16,7 @@
 </p>
 
 - 🥷   Learning Solidity with Udemy, buildspace and CryptoZombies => DApps is Future
-- 👨‍💻   All of my projects are available at https://portfoliov2-565q.vercel.app/]
+- 👨‍💻   All of my projects are available at https://portfoliov2-565q.vercel.app/
 - 📫   How to reach me **https://linktr.ee/mehmetdev**
 - ⚡   Fun fact : Cobra Kai Never Dies
 
