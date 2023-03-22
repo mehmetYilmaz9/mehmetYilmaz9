@@ -17,7 +17,6 @@
 
 - 🥷   Web3 Dev using Solidity // Rust and learning Motoko with beautiful and clean NextJs friendly Front-End app 
 - 👨‍💻   All of my projects are available at https://www.codemehmet.dev/
-- 📫   How to reach me **https://linktr.ee/mehmetdev**
 - ⚡   Fun fact : Cobra Kai Never Dies
 
 <h3 align="left">Languages and Tools :</h3>
